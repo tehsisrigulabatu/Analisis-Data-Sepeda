@@ -7,8 +7,8 @@ import seaborn as sns
 
 
 # load dataset
-day_df = pd.read_csv('day_clean.csv')
-hour_df = pd.read_csv('hour_clean.csv')
+day_df = pd.read_csv('dashboard/day_clean.csv')
+hour_df = pd.read_csv('dashboard/hour_clean.csv')
 
 
 # judul utama dan sidebar
