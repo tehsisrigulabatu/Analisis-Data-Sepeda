@@ -18,5 +18,6 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run  dashboard/main.py
+streamlit run  dashboard/main.py 
 ```
+posisi terminal aktif masih di folder root bukan masuk ke folder submission
