@@ -2,7 +2,7 @@
 
 ## Setup Environment - Anaconda
 ```
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.12.3
 conda activate main-ds
 pip install -r requirements.txt
 ```
@@ -18,5 +18,6 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run  dashboard/main.py
+streamlit run  dashboard/main.py 
 ```
+posisi terminal aktif masih di folder root bukan masuk ke folder submission
